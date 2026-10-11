@@ -113,18 +113,38 @@ pd_st.markdown(
     unsafe_allow_html=True,
 )
 
-# List of daily quotes tailored for her
+# List of 30 unique daily quotes
 quotes = [
-    "Sohini, I love you not only for what you are, but for what I am when I am with you.",
-    "In a world full of temporary things, you are my forever favorite, Sohini.",
+    "I love you not only for what you are, but for what I am when I am with you.",
+    "In a world full of temporary things, you are my forever favorite.",
     "Every day with you is a new adventure and my absolute favorite part of life.",
     "Your smile is literally the brightest part of my day, every single day.",
-    "I didn't choose you by accident, Sohini; loving you is the best choice I ever made.",
+    "I didn't choose you by accident; loving you is the best choice I ever made.",
     "You are my today and all of my tomorrows.",
     "Just a reminder: you are incredible, gorgeous, and deeply loved.",
     "My favorite place in the entire world is right beside you.",
-    "The best things in life are better with you, Sohini.",
+    "The best things in life are better with you.",
     "Thank you for being the sweetest reason behind my smile.",
+    "If I had a flower for every time I thought of you, I could walk in my garden forever.",
+    "I look at you and I see the rest of my life in front of my eyes.",
+    "Whatever our souls are made of, yours and mine are the same.",
+    "You're the first thing I think about when I wake up and the last thing before I fall asleep.",
+    "Loving you is effortless because you make every single day brighter.",
+    "Holding your hand is my favorite way to walk through the world.",
+    "You are my sun, my moon, and all of my stars.",
+    "There is no remedy for love, but to love more.",
+    "To the world you may be one person, but to me you are the world.",
+    "I never knew what it meant to truly miss someone until you walked into my life.",
+    "You make my heart skip a beat without even trying.",
+    "Every love story is beautiful, but ours is my absolute favorite.",
+    "You are the best plot twist I could have ever asked for.",
+    "Being deeply loved by you gives me strength, while loving you gives me courage.",
+    "My heart is, and always will be, yours.",
+    "I still fall for you a little bit more every single day.",
+    "You are the thought that turns a bad day into a good one instantly.",
+    "Life with you feels like a warm embrace on a chilly evening.",
+    "I didn't know home could be a person until I found you.",
+    "Counting down the days until we celebrate you, because you deserve the world.",
 ]
 
 # Select quote based on the day of the year
